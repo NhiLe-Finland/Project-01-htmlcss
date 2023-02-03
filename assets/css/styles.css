@@ -89,7 +89,7 @@ a {
 
 .navbar ul a {
     font-weight: 500;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     color: #4f5361;
     padding: 8px 14px;
 }
@@ -346,7 +346,7 @@ a {
     font-weight: 600;
     font-size: 2rem;
     line-height: 1.5;
-    color: #000339;
+    color: #070c6c;
 }
 
 .featured .item .desc {
